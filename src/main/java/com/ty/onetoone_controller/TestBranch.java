@@ -11,7 +11,8 @@ import com.ty.onetoone_dao.Branch;
 public class TestBranch {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
+		//TestBranch
 		
 		EntityManagerFactory entityManagerFactory = Persistence.createEntityManagerFactory("dev");
 		EntityManager entityManager = entityManagerFactory.createEntityManager();
